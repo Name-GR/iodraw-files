@@ -132,7 +132,7 @@
           <mxGeometry x="748" y="427" width="209" height="33" as="geometry" />
         </mxCell>
         <mxCell id="CqNWQnYWXTpPYvDH8wm9-0" value="治疗建议生成，风险分层" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="735" y="459" width="154" height="33" as="geometry" />
+          <mxGeometry x="775.5" y="473" width="154" height="33" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
