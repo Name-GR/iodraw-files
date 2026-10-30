@@ -83,7 +83,7 @@
           <mxGeometry width="570" height="110" as="geometry" />
         </mxCell>
         <mxCell id="EaTDDUAJZ-r9rpQjC0_4-33" value="患者信息感知和记录工具" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="EaTDDUAJZ-r9rpQjC0_4-31">
-          <mxGeometry x="195" y="30" width="115" height="60" as="geometry" />
+          <mxGeometry x="195" y="30" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="EaTDDUAJZ-r9rpQjC0_4-34" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="EaTDDUAJZ-r9rpQjC0_4-31">
           <mxGeometry x="15" y="25" width="120" height="60" as="geometry" />
