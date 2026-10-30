@@ -68,7 +68,7 @@
           <mxGeometry width="570" height="110" as="geometry" />
         </mxCell>
         <mxCell id="EaTDDUAJZ-r9rpQjC0_4-28" value="多轮对话上下文增强（跨轮证据记忆）" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="EaTDDUAJZ-r9rpQjC0_4-26">
-          <mxGeometry x="220" y="5" width="120" height="40" as="geometry" />
+          <mxGeometry x="160" y="5" width="200" height="40" as="geometry" />
         </mxCell>
         <mxCell id="EaTDDUAJZ-r9rpQjC0_4-29" value="贝叶斯引擎接入" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="EaTDDUAJZ-r9rpQjC0_4-26">
           <mxGeometry x="50" y="55" width="480" height="45" as="geometry" />
