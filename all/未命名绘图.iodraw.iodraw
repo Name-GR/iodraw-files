@@ -56,7 +56,7 @@
           <mxGeometry x="15" y="15" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="EaTDDUAJZ-r9rpQjC0_4-22" value="患者信息写入" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="EaTDDUAJZ-r9rpQjC0_4-18">
-          <mxGeometry x="385" y="10" width="120" height="40" as="geometry" />
+          <mxGeometry x="385" y="9" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="EaTDDUAJZ-r9rpQjC0_4-36" value="图谱持续更新" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="EaTDDUAJZ-r9rpQjC0_4-18">
           <mxGeometry x="385" y="70" width="120" height="40" as="geometry" />
