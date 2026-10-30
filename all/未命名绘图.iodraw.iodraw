@@ -56,10 +56,10 @@
           <mxGeometry x="40" y="15" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="EaTDDUAJZ-r9rpQjC0_4-22" value="患者信息写入" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="EaTDDUAJZ-r9rpQjC0_4-18">
-          <mxGeometry x="385" y="15" width="120" height="40" as="geometry" />
+          <mxGeometry x="410" y="15" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="EaTDDUAJZ-r9rpQjC0_4-36" value="图谱持续更新" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="EaTDDUAJZ-r9rpQjC0_4-18">
-          <mxGeometry x="385" y="65" width="120" height="40" as="geometry" />
+          <mxGeometry x="410" y="65" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="EaTDDUAJZ-r9rpQjC0_4-38" value="&lt;span style=&quot;font-family: 宋体;&quot;&gt;&lt;font style=&quot;font-size: 12px;&quot; face=&quot;Times New Roman&quot;&gt;GNN&lt;/font&gt;&lt;font style=&quot;font-size: 12px;&quot; face=&quot;宋体&quot;&gt;时空对齐算法+（&lt;/font&gt;&lt;font style=&quot;font-size: 12px;&quot; face=&quot;Times New Roman&quot;&gt;UMLS+LOINC&lt;/font&gt;&lt;font style=&quot;font-size: 12px;&quot; face=&quot;宋体&quot;&gt;）语义映射&lt;/font&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="EaTDDUAJZ-r9rpQjC0_4-18">
           <mxGeometry x="40" y="65" width="120" height="40" as="geometry" />
