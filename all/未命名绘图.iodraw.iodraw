@@ -67,10 +67,10 @@
         <mxCell id="EaTDDUAJZ-r9rpQjC0_4-27" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="EaTDDUAJZ-r9rpQjC0_4-26">
           <mxGeometry width="570" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="EaTDDUAJZ-r9rpQjC0_4-28" value="多轮对话上下文增强（跨轮证据记忆）" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="EaTDDUAJZ-r9rpQjC0_4-26">
-          <mxGeometry x="160" y="5" width="200" height="40" as="geometry" />
+        <mxCell id="EaTDDUAJZ-r9rpQjC0_4-28" value="贝叶斯推理引擎接入" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="EaTDDUAJZ-r9rpQjC0_4-26">
+          <mxGeometry x="220" y="5" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="EaTDDUAJZ-r9rpQjC0_4-29" value="贝叶斯引擎接入" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="EaTDDUAJZ-r9rpQjC0_4-26">
+        <mxCell id="EaTDDUAJZ-r9rpQjC0_4-29" value="多轮对话上下文增强（跨轮证据记忆）" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="EaTDDUAJZ-r9rpQjC0_4-26">
           <mxGeometry x="50" y="55" width="480" height="45" as="geometry" />
         </mxCell>
         <mxCell id="EaTDDUAJZ-r9rpQjC0_4-31" value="" style="group" vertex="1" connectable="0" parent="WIyWlLk6GJQsqaUBKTNV-1">
@@ -84,9 +84,6 @@
         </mxCell>
         <mxCell id="EaTDDUAJZ-r9rpQjC0_4-33" value="患者信息感知和记录工具" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="EaTDDUAJZ-r9rpQjC0_4-31">
           <mxGeometry x="220" y="10" width="120" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="EaTDDUAJZ-r9rpQjC0_4-56" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="EaTDDUAJZ-r9rpQjC0_4-31" source="EaTDDUAJZ-r9rpQjC0_4-35" target="EaTDDUAJZ-r9rpQjC0_4-54">
-          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="EaTDDUAJZ-r9rpQjC0_4-35" value="多模态文件解析工具" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="EaTDDUAJZ-r9rpQjC0_4-31">
           <mxGeometry x="220" y="60" width="120" height="40" as="geometry" />
