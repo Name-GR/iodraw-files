@@ -74,16 +74,16 @@
           <mxGeometry x="50" y="55" width="480" height="45" as="geometry" />
         </mxCell>
         <mxCell id="EaTDDUAJZ-r9rpQjC0_4-31" value="" style="group" vertex="1" connectable="0" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="180" y="180" width="570" height="110" as="geometry" />
+          <mxGeometry x="180" y="180" width="570" height="60" as="geometry" />
         </mxCell>
         <mxCell id="EaTDDUAJZ-r9rpQjC0_4-32" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="EaTDDUAJZ-r9rpQjC0_4-31">
-          <mxGeometry width="570" height="110" as="geometry" />
+          <mxGeometry width="570" height="59.99999999999999" as="geometry" />
         </mxCell>
         <mxCell id="EaTDDUAJZ-r9rpQjC0_4-33" value="患者信息感知和记录工具" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="EaTDDUAJZ-r9rpQjC0_4-31">
-          <mxGeometry x="220" y="10" width="120" height="60" as="geometry" />
+          <mxGeometry x="220" y="5.454545454545454" width="120" height="32.72727272727273" as="geometry" />
         </mxCell>
         <mxCell id="EaTDDUAJZ-r9rpQjC0_4-35" value="多模态文件解析工具" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="EaTDDUAJZ-r9rpQjC0_4-31">
-          <mxGeometry x="410" y="30" width="120" height="60" as="geometry" />
+          <mxGeometry x="410" y="16.363636363636363" width="120" height="32.72727272727273" as="geometry" />
         </mxCell>
         <mxCell id="EaTDDUAJZ-r9rpQjC0_4-40" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="EaTDDUAJZ-r9rpQjC0_4-19" target="EaTDDUAJZ-r9rpQjC0_4-12">
           <mxGeometry relative="1" as="geometry" />
