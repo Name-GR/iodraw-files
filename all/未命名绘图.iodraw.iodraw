@@ -61,6 +61,9 @@
         <mxCell id="EaTDDUAJZ-r9rpQjC0_4-36" value="图谱持续更新" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="EaTDDUAJZ-r9rpQjC0_4-18">
           <mxGeometry x="385" y="70" width="120" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="EaTDDUAJZ-r9rpQjC0_4-38" value="CKM多模态数据库" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="EaTDDUAJZ-r9rpQjC0_4-18">
+          <mxGeometry x="15" y="70" width="120" height="40" as="geometry" />
+        </mxCell>
         <mxCell id="EaTDDUAJZ-r9rpQjC0_4-26" value="" style="group" vertex="1" connectable="0" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="180" y="375" width="570" height="110" as="geometry" />
         </mxCell>
@@ -90,9 +93,6 @@
         </mxCell>
         <mxCell id="EaTDDUAJZ-r9rpQjC0_4-37" value="CKM多模态数据库" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="220" y="970" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="EaTDDUAJZ-r9rpQjC0_4-38" value="CKM多模态数据库" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="220" y="910" width="120" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
