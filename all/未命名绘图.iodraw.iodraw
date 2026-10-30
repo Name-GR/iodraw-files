@@ -71,7 +71,7 @@
           <mxGeometry x="185" y="5" width="200" height="40" as="geometry" />
         </mxCell>
         <mxCell id="EaTDDUAJZ-r9rpQjC0_4-29" value="贝叶斯引擎接入" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="EaTDDUAJZ-r9rpQjC0_4-26">
-          <mxGeometry x="50" y="55" width="390" height="45" as="geometry" />
+          <mxGeometry x="160" y="55" width="240" height="45" as="geometry" />
         </mxCell>
         <mxCell id="EaTDDUAJZ-r9rpQjC0_4-31" value="" style="group" vertex="1" connectable="0" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="180" y="180" width="570" height="110" as="geometry" />
