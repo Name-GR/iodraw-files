@@ -94,11 +94,6 @@
         <mxCell id="EaTDDUAJZ-r9rpQjC0_4-35" value="多模态文件解析工具" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="EaTDDUAJZ-r9rpQjC0_4-31">
           <mxGeometry x="220" y="60" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="EaTDDUAJZ-r9rpQjC0_4-65" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="EaTDDUAJZ-r9rpQjC0_4-31" source="EaTDDUAJZ-r9rpQjC0_4-54">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="450" y="160" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="EaTDDUAJZ-r9rpQjC0_4-54" value="对各工具进行注册，编排，权限管理" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="EaTDDUAJZ-r9rpQjC0_4-31">
           <mxGeometry x="410" y="25" width="120" height="60" as="geometry" />
         </mxCell>
@@ -114,8 +109,10 @@
         <mxCell id="EaTDDUAJZ-r9rpQjC0_4-51" value="证据交付" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=15;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="510" y="518" width="80" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="EaTDDUAJZ-r9rpQjC0_4-53" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="EaTDDUAJZ-r9rpQjC0_4-27" target="EaTDDUAJZ-r9rpQjC0_4-32">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="EaTDDUAJZ-r9rpQjC0_4-65" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="EaTDDUAJZ-r9rpQjC0_4-54" target="EaTDDUAJZ-r9rpQjC0_4-27">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="630" y="340" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
