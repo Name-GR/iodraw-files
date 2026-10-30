@@ -88,7 +88,7 @@
         <mxCell id="EaTDDUAJZ-r9rpQjC0_4-33" value="患者信息感知和记录工具" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="EaTDDUAJZ-r9rpQjC0_4-31">
           <mxGeometry x="195" y="30" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="EaTDDUAJZ-r9rpQjC0_4-35" value="多模态文件解析工具" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="EaTDDUAJZ-r9rpQjC0_4-31">
+        <mxCell id="EaTDDUAJZ-r9rpQjC0_4-35" value="多模态文件解析工具" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="EaTDDUAJZ-r9rpQjC0_4-31">
           <mxGeometry x="385" y="30" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
