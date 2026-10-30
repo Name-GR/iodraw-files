@@ -61,7 +61,7 @@
         <mxCell id="EaTDDUAJZ-r9rpQjC0_4-36" value="图谱持续更新" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="EaTDDUAJZ-r9rpQjC0_4-18">
           <mxGeometry x="385" y="70" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="EaTDDUAJZ-r9rpQjC0_4-38" value="CKM多模态数据库" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="EaTDDUAJZ-r9rpQjC0_4-18">
+        <mxCell id="EaTDDUAJZ-r9rpQjC0_4-38" value="&lt;span style=&quot;mso-spacerun:&#39;yes&#39;;font-family:宋体;mso-ascii-font-family:&#39;Times New Roman&#39;;&lt;br/&gt;mso-hansi-font-family:&#39;Times New Roman&#39;;mso-bidi-font-family:&#39;Times New Roman&#39;;font-size:12.0000pt;&lt;br/&gt;mso-font-kerning:1.0000pt;&quot;&gt;&lt;font face=&quot;宋体&quot;&gt;基于图神经网络（&lt;/font&gt;&lt;font face=&quot;Times New Roman&quot;&gt;GNN&lt;/font&gt;&lt;font face=&quot;宋体&quot;&gt;）的时空对齐算法，结合医学本体库（&lt;/font&gt;&lt;font face=&quot;Times New Roman&quot;&gt;UMLS+LOINC&lt;/font&gt;&lt;font face=&quot;宋体&quot;&gt;）语义映射&lt;/font&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="EaTDDUAJZ-r9rpQjC0_4-18">
           <mxGeometry x="15" y="65" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="EaTDDUAJZ-r9rpQjC0_4-26" value="" style="group" vertex="1" connectable="0" parent="WIyWlLk6GJQsqaUBKTNV-1">
