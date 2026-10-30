@@ -26,19 +26,19 @@
           <mxGeometry x="580" y="40" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="EaTDDUAJZ-r9rpQjC0_4-17" value="" style="group" vertex="1" connectable="0" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="180" y="570" width="570" height="115" as="geometry" />
+          <mxGeometry x="180" y="575" width="570" height="110" as="geometry" />
         </mxCell>
         <mxCell id="EaTDDUAJZ-r9rpQjC0_4-12" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="EaTDDUAJZ-r9rpQjC0_4-17">
-          <mxGeometry width="570" height="115" as="geometry" />
+          <mxGeometry width="570" height="110" as="geometry" />
         </mxCell>
         <mxCell id="EaTDDUAJZ-r9rpQjC0_4-13" value="混合检索（跨模态召回+排序策略）" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="EaTDDUAJZ-r9rpQjC0_4-17">
-          <mxGeometry x="30" y="10.454545454545453" width="510" height="26.136363636363637" as="geometry" />
+          <mxGeometry x="30" y="10" width="510" height="25" as="geometry" />
         </mxCell>
         <mxCell id="EaTDDUAJZ-r9rpQjC0_4-16" value="多跳路径检索推理框架（查询解析-&amp;gt;K跳子图剪枝-&amp;gt;路径排序-&amp;gt;候选路径）" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="EaTDDUAJZ-r9rpQjC0_4-17">
-          <mxGeometry x="30" y="47.04545454545455" width="510" height="26.136363636363637" as="geometry" />
+          <mxGeometry x="30" y="45" width="510" height="25" as="geometry" />
         </mxCell>
         <mxCell id="EaTDDUAJZ-r9rpQjC0_4-49" value="患者信息健康子图与超图做实体对齐，对查询做背景约束" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="EaTDDUAJZ-r9rpQjC0_4-17">
-          <mxGeometry x="30" y="83.63636363636363" width="510" height="26.136363636363637" as="geometry" />
+          <mxGeometry x="30" y="80" width="510" height="25" as="geometry" />
         </mxCell>
         <mxCell id="EaTDDUAJZ-r9rpQjC0_4-18" value="" style="group" vertex="1" connectable="0" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="180" y="772.5" width="570" height="115" as="geometry" />
@@ -93,6 +93,9 @@
         </mxCell>
         <mxCell id="EaTDDUAJZ-r9rpQjC0_4-48" value="知识图谱多跳推理" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=15;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="470" y="720" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="EaTDDUAJZ-r9rpQjC0_4-50" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="EaTDDUAJZ-r9rpQjC0_4-12" target="EaTDDUAJZ-r9rpQjC0_4-27">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
